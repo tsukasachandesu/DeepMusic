@@ -2,8 +2,8 @@ from copy import deepcopy
 from typing import List
 import numpy as np
 
-from deepnote.repr import MusicRepr
-from deepnote.modules import Note, Metric
+from deepmusic.repr import MusicRepr
+from deepmusic.modules import Note, Metric
 
 class Scale:
     def __init__(self):
