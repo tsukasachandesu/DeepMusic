@@ -1,4 +1,4 @@
-from deepnote.modules import Metric, Note
+from deepmusic.modules import Metric, Note
 import numpy as np
 from scipy.stats import entropy
 import itertools
